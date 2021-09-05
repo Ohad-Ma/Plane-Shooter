@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plane shooter</string>
+    <string name="hello">hello</string>
+    <string name="todo">TODO</string>
+</resources>
