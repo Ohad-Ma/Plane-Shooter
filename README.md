@@ -1,4 +1,4 @@
-# Plane Shooter
+# Planes Shooter
 
 ## Description:
 
