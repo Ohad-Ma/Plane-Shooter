@@ -1,6 +1,6 @@
 # Plane Shooter
 
-## description
+## Description:
 
 Shoot flying planes to gain score, if many planes pass you lose
 
